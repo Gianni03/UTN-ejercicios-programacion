@@ -1,0 +1,31 @@
+h2 {
+  text-align: center;
+  font-size: 27px;
+  padding: 12px;
+  border-bottom: 3px solid black;
+}
+
+h3 {
+  text-align: left;
+  padding: 10px;
+}
+
+.lista {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 7px;
+  background-color: aquamarine;
+}
+
+.menu {
+  list-style: none;
+
+}
+
+.menu a {
+  text-decoration: none;
+  color: #000;
+  padding: 5px;
+  font-weight: 700;
+}
